@@ -1,0 +1,5 @@
+{% set salt = salt['grains.filter_by']({
+    'Arch': {
+        'package_name': 'salt-zmq',
+    },
+}, merge=salt['pillar.get']('salt.lookup')) %}

@@ -1,0 +1,5 @@
+{% set libreoffice = salt['grains.filter_by']({
+    'Arch': {
+        'version': 'fresh',
+    },
+}, merge=salt['pillar.get']('libreoffice.lookup')) %}

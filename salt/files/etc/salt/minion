@@ -1,0 +1,2 @@
+master: {{ salt['grains.get']('host', 'localhost') }}
+id: {{ salt['grains.get']('host', 'localhost') }}

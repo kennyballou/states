@@ -1,0 +1,3 @@
+kdenlive:
+  pkg:
+    - latest

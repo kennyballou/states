@@ -1,0 +1,31 @@
+development_packages:
+  pkg.latest:
+    - pkgs:
+      - boost
+      - boost-libs
+      - cmake
+      - ctags
+      - erlang-nox
+      - gcc
+      - gcc-fortran
+      - gcc-libs
+      - gdb
+      - git
+      - gnuplot
+      - go
+      - guile
+      - imake
+      - jq
+      - ltrace
+      - lua
+      - make
+      - meld
+      - mercurial
+      - octave
+      - patch
+      - r
+      - rebar
+      - ruby
+      - strace
+      - subversion
+      - valgrind
