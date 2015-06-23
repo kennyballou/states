@@ -1,7 +1,7 @@
 network_packages:
   pkg.latest:
     - pkgs:
-      - dnsutils
+      - bind-tools
       - iftop
       - mtr
       - netctl
