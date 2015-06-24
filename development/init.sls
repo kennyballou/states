@@ -5,6 +5,7 @@ development_packages:
       - boost-libs
       - cmake
       - ctags
+      - dos2unix
       - erlang-nox
       - gcc
       - gcc-fortran
