@@ -16,3 +16,4 @@ texlive:
       - texlive-pstricks
       - texlive-publishers
       - texlive-science
+      - ktikz
