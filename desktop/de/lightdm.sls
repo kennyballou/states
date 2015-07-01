@@ -13,13 +13,13 @@ desktop_de_lightdm_packages:
     - group: root
     - mode: 644
     - require:
-      - pkg: packages
+      - pkg: desktop_de_lightdm_packages
 {% endfor %}
 
 lightdm:
   service.running:
     - enable: True
     - require:
-      - pkg: packages
+      - pkg: desktop_de_lightdm_packages
       - file: '/etc/lightdm/lightdm.conf'
       - file: '/etc/lightdm/lightdm-gtk-greeter.conf'

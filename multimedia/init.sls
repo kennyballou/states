@@ -1,4 +1,4 @@
-packages:
+multimedia_packages:
   pkg.latest:
     - pkgs:
         - zathura
