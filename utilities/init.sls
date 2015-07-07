@@ -8,6 +8,7 @@ packages:
       - stow
       - sudo
       - terminator
+      - terminology
       - tmux
       - xterm
       - unzip
