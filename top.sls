@@ -19,6 +19,7 @@
     - libreoffice
     - texlive
     - utilities.network
+    - system.xorg
   'Eligos':
     - system.audio.jack
     - multimedia.video.editing.kdenlive
