@@ -37,7 +37,6 @@ pythons3_packages:
       - python-psycopg2
       - python-pyasn1
       - python-pycparser
-      - python-pycuda
       - python-pyflakes
       - python-pygments
       - python-pylint
@@ -120,7 +119,6 @@ pythons2_packages:
       - python2-pyasn1
       - python2-pychm
       - python2-pycparser
-      - python2-pycuda
       - python2-pycurl
       - python2-pyflakes
       - python2-pygments
