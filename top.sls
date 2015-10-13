@@ -26,4 +26,5 @@
   'Phenex':
     - system.audio.pulseaudio
     - system.udev.laptop
+    - system.xorg.intel
     - utilities.network.wireless
