@@ -22,6 +22,7 @@
     - system.xorg
   'Eligos':
     - system.audio.jack
+    - system.xorg.nouveau
     - multimedia.video.editing.kdenlive
   'Phenex':
     - system.audio.pulseaudio
