@@ -1,5 +1,8 @@
 include:
   - multimedia.sound.gstreamer
 
-clementine:
-  pkg.latest: []
+multimedia_audio_packages:
+  pkg.latest:
+    - pkgs:
+      - clementine
+      - cmus
