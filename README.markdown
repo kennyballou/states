@@ -1,5 +1,16 @@
 # README: Salt States #
 
+```    ____   ____ _   _ _____     _______ ____
+   / \  |  _ \ / ___| | | |_ _\ \   / / ____|  _ \
+  / _ \ | |_) | |   | |_| || | \ \ / /|  _| | | | |
+ / ___ \|  _ <| |___|  _  || |  \ V / | |___| |_| |
+/_/   \_\_| \_\\____|_| |_|___|  \_/  |_____|____/
+```
+
+This project hasn't been maintained and will continue to not be maintained.
+Checkout my [dotfiles](https://github.com/kennyballou/dotfiles) for something
+that is maintained.
+
 Personal Salt states project for machine configuration and package listing.
 
 ## License ##
